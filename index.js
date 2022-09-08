@@ -33,7 +33,3 @@ simpleGit().add([FILE_PATH]).commit(DATE, {'--date': DATE}).push();
 // }
 // makeCommit(300);
 
-
-
-
-
