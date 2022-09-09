@@ -1,2 +1,2 @@
 # private
-A notsoBotybot
+private-whiteboard
